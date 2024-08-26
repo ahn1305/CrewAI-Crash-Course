@@ -50,7 +50,7 @@ The project uses three main agents:
      ```
    
 3. **Run the Project**:
-   - Execute the `trip_planner.py` script:
+   - Execute the `main.py` script:
      ```bash
      python main.py
      ```
